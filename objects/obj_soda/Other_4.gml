@@ -1,4 +1,4 @@
-/// @description Center room
+/// @description Top corner
 
-x = room_width / 2;
-y = room_height / 2;
+x = 96;
+y = 96;

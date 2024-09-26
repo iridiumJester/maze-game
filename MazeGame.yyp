@@ -3,13 +3,16 @@
   "resourceVersion": "1.6",
   "name": "MazeGame",
   "resources": [
+    {"id":{"name":"spr_currency","path":"sprites/spr_currency/spr_currency.yy",},"order":8,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":5,},
     {"id":{"name":"spr_sodawalk1","path":"sprites/spr_sodawalk1/spr_sodawalk1.yy",},"order":1,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
     {"id":{"name":"spr_sodablink1","path":"sprites/spr_sodablink1/spr_sodablink1.yy",},"order":3,},
     {"id":{"name":"spr_sodawalk1blink1","path":"sprites/spr_sodawalk1blink1/spr_sodawalk1blink1.yy",},"order":4,},
     {"id":{"name":"obj_soda","path":"objects/obj_soda/obj_soda.yy",},"order":0,},
+    {"id":{"name":"spr_eebyfox","path":"sprites/spr_eebyfox/spr_eebyfox.yy",},"order":7,},
     {"id":{"name":"spr_cirno","path":"sprites/spr_cirno/spr_cirno.yy",},"order":6,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -35,6 +38,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
