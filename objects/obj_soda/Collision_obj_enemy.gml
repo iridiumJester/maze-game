@@ -3,3 +3,7 @@
 
 health -= 25;
 
+if (health <= 0) {
+	x = xstart;
+	y = ystart;
+}

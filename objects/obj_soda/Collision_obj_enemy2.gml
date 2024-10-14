@@ -1,9 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-score = 0;
-lives = 3;
-health = 100;
+health -= 25;
 
-
-
+if (health <= 0) {
+	x = xstart;
+	y = ystart;
+}
